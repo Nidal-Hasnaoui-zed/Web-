@@ -155,4 +155,5 @@ form
   input[type="submit"] {
   background: #4070f4;
   color: #fff;
-  border: n
+  border: none; 
+  }
